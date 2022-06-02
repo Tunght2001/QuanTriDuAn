@@ -32,7 +32,7 @@ if (isset($_POST['login'])) {
         // var_dump($_SESSION);
     } else {
         //var_dump($_SESSION);
-        $alert = 'Sai ten dang  nhap hoac mat khau  sai !';
+        $alert = 'Ten dang nhap hoac mat khau khong chinh xac !';
     }
 }
 ?>
