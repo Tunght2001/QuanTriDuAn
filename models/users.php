@@ -1,7 +1,7 @@
 <?php
 
- require_once('C:/xampp/htdocs/PC_1/db.php'); 
-require_once('C:/xampp/htdocs/PC_1/models/imodel.php');
+ require_once('D:/xampp/htdocs/PC_1/db.php'); 
+require_once('D:/xampp/htdocs/PC_1/models/imodel.php');
 class Users extends DB implements IModel
 {
     const tableName = 'user';

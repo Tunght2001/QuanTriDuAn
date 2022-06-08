@@ -1,5 +1,5 @@
 <?php
-include_once('C:/xampp/htdocs/PC_1/models/slider.php');
+include_once('D:/xampp/htdocs/PC_1/models/slider.php');
 $slider = new Slider();
 $list = $slider->getAllNoLimit();
 

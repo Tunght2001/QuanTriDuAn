@@ -1,7 +1,7 @@
 <?php
 // hiện trên trang index
-include_once('C:/xampp/htdocs/PC_1/models/cate.php');
-include_once('C:/xampp/htdocs/PC_1/models/products.php');
+include_once('D:/xampp/htdocs/PC_1/models/cate.php');
+include_once('D:/xampp/htdocs/PC_1/models/products.php');
 $product = new Product();
 $cate = new Cate();
 $cateList = $cate->getCateIndex();

@@ -1,5 +1,5 @@
 <?php
-require_once('C:/xampp/htdocs/PC_1/db.php');
+require_once('D:/xampp/htdocs/PC_1/db.php');
 $pdo = new DB();
 $pdo = $pdo->getPDO();
 // $pdo = new PDO('mysql:host=localhost;dbname=shop_laptop', 'root', '');

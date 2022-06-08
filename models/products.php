@@ -1,8 +1,8 @@
 <?php
 /* require_once('./../../db.php'); */
-require_once('C:/xampp/htdocs/PC_1/db.php');
+require_once('D:/xampp/htdocs/PC_1/db.php');
 
-/* require_once('C:/xampp/htdocs//db.php'); */
+/* require_once('D:/xampp/htdocs//db.php'); */
 require_once('iproduct.php');
 class Product extends DB implements Iproduct
 {

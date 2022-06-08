@@ -1,6 +1,6 @@
 <?php
 // this to  show this products in last of page
-include_once('C:/xampp/htdocs/PC_1/models/products.php');
+include_once('D:/xampp/htdocs/PC_1/models/products.php');
 $product = new Product();
 $list = $product->getAll(0, 10);
 ?>

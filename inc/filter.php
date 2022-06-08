@@ -1,5 +1,5 @@
 <?php
-include_once('C:/xampp/htdocs/PC_1/models/products.php');
+include_once('D:/xampp/htdocs/PC_1/models/products.php');
 $product = new Product();
 
 // make condition filter to in WHERE DB

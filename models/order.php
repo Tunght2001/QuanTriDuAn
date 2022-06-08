@@ -1,7 +1,7 @@
 <?php
 /* require_once('./../../db.php'); */
-/* require_once('C:/xampp/htdocs/Laptopcu/db.php'); */
-require_once('C:/xampp/htdocs/PC_1/db.php');
+/* require_once('D:/xampp/htdocs/Laptopcu/db.php'); */
+require_once('D:/xampp/htdocs/PC_1/db.php');
 class Order extends DB
 {
     const tableName = 'ordered';

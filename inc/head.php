@@ -1,9 +1,9 @@
 <?php
-require_once('C:/xampp/htdocs/PC_1/models/brand.php');
-require_once('C:/xampp/htdocs/PC_1/models/cate.php');
-require_once('C:/xampp/htdocs/PC_1/models/products.php');
-require_once('C:/xampp/htdocs/PC_1/models/slider.php');
-require_once('C:/xampp/htdocs/PC_1/models/order.php');
+require_once('D:/xampp/htdocs/PC_1/models/brand.php');
+require_once('D:/xampp/htdocs/PC_1/models/cate.php');
+require_once('D:/xampp/htdocs/PC_1/models/products.php');
+require_once('D:/xampp/htdocs/PC_1/models/slider.php');
+require_once('D:/xampp/htdocs/PC_1/models/order.php');
 session_start();
 //get title for head
 $_SESSION['title'] = 'Shop Laptop cũ';
@@ -11,31 +11,31 @@ $actual_link = $_SERVER['PHP_SELF'];
 
 switch ($actual_link) {
 /*   case ' /localhost index.php': */
-    case 'C:/xampp/htdocs/PC_1/index.php':
+    case 'D:/xampp/htdocs/PC_1/index.php':
     $_SESSION['title'] = 'Shop Laptop cũ ';
     break;
-  case 'C:/xampp/htdocs/PC_1/shop.php':
+  case 'D:/xampp/htdocs/PC_1/shop.php':
     $_SESSION['title'] = 'Tất cả Sản Phẩm';
     break;
-  case 'C:/xampp/htdocs/PC_1/cart.php':
+  case 'D:/xampp/htdocs/PC_1/cart.php':
     $_SESSION['title'] = 'Giỏ Hàng Của Bạn';
     break;
-  case 'C:/xampp/htdocs/PC_1/checkout.php':
+  case 'D:/xampp/htdocs/PC_1/checkout.php':
     $_SESSION['title'] = 'Check out';
     break;
   case 'PC_1/single-product.php':
     $_SESSION['title'] = 'Chi tiết Sản Phẩm';
     break;
-  case 'C:/xampp/htdocs/PC_1/checkout.php':
+  case 'D:/xampp/htdocs/PC_1/checkout.php':
     $_SESSION['title'] = 'Check out';
     break;
-  case 'C:/xampp/htdocs/PC_1/category.php':
+  case 'D:/xampp/htdocs/PC_1/category.php':
     $_SESSION['title'] = 'Danh mục Sản Phẩm';
     break;
-  case 'C:/xampp/htdocs/PC_1/brand.php':
+  case 'D:/xampp/htdocs/PC_1/brand.php':
     $_SESSION['title'] = 'Thương hiệu';
     break;
-  case 'C:/xampp/htdocs/PC_1/orders.php':
+  case 'D:/xampp/htdocs/PC_1/orders.php':
     $_SESSION['title'] = 'Danh Sách Đơn Hàng';
     break;
   default:

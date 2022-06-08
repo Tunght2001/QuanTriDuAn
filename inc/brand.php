@@ -1,5 +1,5 @@
 <?php
- include_once('C:/xampp/htdocs/PC_1/models/brand.php'); 
+ include_once('D:/xampp/htdocs/PC_1/models/brand.php'); 
 $brand = new Brand();
 $listbrand = $brand->getAllNoLimit();
 
