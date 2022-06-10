@@ -14,32 +14,33 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="footer-menu">
-                    <h2 class="footer-wid-title">User Navigation </h2>
+                <h2 class="footer-wid-title">Danh Mục </h2>
                     <ul>
-                        <li><a href="#">My account</a></li>
-                        <li><a href="#">Order history</a></li>
-                        <li><a href="#">Wishlist</a></li>
-                        <li><a href="#">Vendor contact</a></li>
-                        <li><a href="#">Front page</a></li>
+                        <li><a href="#">Tài khoản</a></li>
+                        <li><a href="#">Lịch sử đơn hàng</a></li>
+                        <li><a href="#">Danh sách yêu thích</a></li>
+                        <li><a href="#">Liên hệ</a></li>
+                        <li><a href="#">Trang chủ</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="footer-menu">
-                    <h2 class="footer-wid-title">Categories</h2>
+                    <h2 class="footer-wid-title">Sản phâm</h2>
                     <ul>
-                        <li><a href="#">Mobile Phone</a></li>
-                        <li><a href="#">Home accesseries</a></li>
-                        <li><a href="#">LED TV</a></li>
-                        <li><a href="#">Computer</a></li>
-                        <li><a href="#">Gadets</a></li>
+                        <li><a href="#">HP</a></li>
+                        <li><a href="#">Dell</a></li>
+                        <li><a href="#">Lennovo</a></li>
+                        <li><a href="#">Asus</a></li>
+                        <li><a href="#">Acer</a></li>
+                        <li><a href="#">MSI</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="footer-newsletter">
-                    <h2 class="footer-wid-title">Newsletter</h2>
-                    <p>Sign up to our newsletter and get exclusive deals you wont find anywhere else straight to your inbox!</p>
+                    <h2 class="footer-wid-title">Bản tin</h2>
+                    <p>Đăng nhập để nhận các ưu đãi độc quyền mà bạn sẽ không tìm thấy ở bất kỳ nơi nào khác ngay trong hộp thư đến của bạn! </p>
                     <div class="newsletter-form">
                         <form action="#">
                             <input type="email" placeholder="Type your email">
