@@ -12,7 +12,7 @@ $list = $product->getAll(0, 10);
 </div>
 
 <div class="single-sidebar">
-    <h2 class="sidebar-title">Products New</h2>
+    <h2 class="sidebar-title">Sản phẩm mới</h2>
     <ul>
 
         <?php
@@ -37,7 +37,7 @@ $list = $product->getAll(0, 10);
 </div>
 
 <div class="single-sidebar">
-    <h2 class="sidebar-title">Recent Posts</h2>
+    <h2 class="sidebar-title">Bài viết gần đây</h2>
     <ul>
         <?php
         //get product recnet post
