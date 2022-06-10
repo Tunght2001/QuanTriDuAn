@@ -11,7 +11,7 @@ $product = new Product();
             <div class="col-md-4">
 
                 <div class="single-product-widget">
-                    <h2 class="product-wid-title">Top Sellers</h2>
+                    <h2 class="product-wid-title">Bán chạy nhất</h2>
                     <!-- <a href="" class="wid-view-more">View All</a> -->
                     <?php
                     //get product top seller
@@ -38,7 +38,7 @@ $product = new Product();
             </div>
             <div class="col-md-4">
                 <div class="single-product-widget">
-                    <h2 class="product-wid-title">Top Views</h2>
+                    <h2 class="product-wid-title">Lượt xem hàng đầu</h2>
                     <!-- <a href="" class="wid-view-more">View All</a> -->
                     <?php
                     //get product top seller
@@ -64,7 +64,7 @@ $product = new Product();
             </div>
             <div class="col-md-4">
                 <div class="single-product-widget">
-                    <h2 class="product-wid-title">Top New</h2>
+                    <h2 class="product-wid-title">Sản phẩm mới</h2>
                     <!-- <a href="#" class="wid-view-more">View All</a> -->
 
                     <?php
